@@ -1,4 +1,6 @@
 # WEEK 1
+
+
 **Was your first week what you expected? Why? Why not?** 
 <br> 
 There are a lot of aspects to this question! To start, I was comforted by the transparency in the coming journey of learning to code. The explanation of 'The Path' shared by fellow coders as they learned the same information was unexpected insight on the coming months. It feels good to have a sneak peak of the ups and downs in my confidence and competency and to know that 
