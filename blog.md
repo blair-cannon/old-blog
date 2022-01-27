@@ -26,4 +26,5 @@ Have you ever been so close to something before deciding to jump ship? Well, Hi.
 <br>
 
 ![Code 1](/img/Screen Shot 2022-01-27 at 1.00.25 PM.png)
+<br>
 ![Code 2](/img/Screen Shot 2022-01-27 at 12.54.08 PM.png)
