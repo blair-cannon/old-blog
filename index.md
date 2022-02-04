@@ -3,5 +3,7 @@
 ###### Stick around to watch this blog get a makeover in the coming months! 
 
 
-[Here is a little about my first week coding!](blog.md)
+[Here is a little about my first week coding!](blog1.md)
+[Second week down, feeling good!](blog2.md)
 ![My dog](/img/luka.JPG)
+
