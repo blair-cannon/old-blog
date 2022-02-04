@@ -4,6 +4,7 @@
 
 
 [Here is a little about my first week coding!](blog1.md)
+<br>
 [Second week down, feeling good!](blog2.md)
 ![My dog](/img/luka.JPG)
 
