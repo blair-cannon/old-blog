@@ -6,5 +6,7 @@
 [Here is a little about my first week coding!](blog1.md)
 <br>
 [Second week down, feeling good!](blog2.md)
+<br>
+[Javascript was a BIG pill to swallow but, in the end, I understand all of my code! Third week!!](blog3.md)
 ![My dog](/img/luka.JPG)
 
